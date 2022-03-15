@@ -36,5 +36,5 @@
 
 <a href = 'https://www.linkedin.com/in/dhruv-ambaliya-179046195/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; 
 <a href = 'https://www.github.com/ambaliyaDhruv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp; 
-<a href = 'ambaliyadhruv@gmail.com'> <img width = '38px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a> 
+<a href="mailto:<nowiki>ambaliyadhruv@gmail.com?subject=HTML link"> <img width = '38px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a> 
   
