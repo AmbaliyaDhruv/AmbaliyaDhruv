@@ -21,21 +21,13 @@
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
 </p>
 
-## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ambaliyaDhruv" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ambaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ambaliyaDhruv" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ambaliyaDhruv&theme=highcontrast&hide_border=true" alt="ambaliyaDhruv" /> </p>
+## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="ambaliyaDhruv" /></p>  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ambaliyaDhruv&theme=highcontrast&hide_border=true" alt="ambaliyaDhruv" /></p> <p align="center">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ambaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="ambaliyaDhruv" />  </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ambaliyaDhruv&theme=dracula&hide_border=true)
 
-<!--
-**AmbaliyaDhruv/ambaliyaDhruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href = 'https://www.linkedin.com/in/dhruv-ambaliya-179046195/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/ambaliyaDhruv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  
