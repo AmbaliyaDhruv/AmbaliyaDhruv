@@ -21,6 +21,12 @@
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
 </p>
 
+<h3><i>Interested on my top projects?</i></h3>
+<p align="left">
+<a href="https://github.com/AmbaliyaDhruv/NewMarriott_Bonvoy_clone.github.io" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Marriot-Bonvoy&color=ff9b65&logo=Marriott&logoColor=FFFFFF&label=" alt="Lybrate" /></a> &nbsp;
+<a href="https://github.com/Duwesh/Purplle.com_web_clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Purplle&color=f9d3e8&logo=purplle.com&logoColor=FFFFFF&label=" alt="adidas"/></a>
+</p>
+
 ## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="ambaliyaDhruv" /></p>  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ambaliyaDhruv&theme=highcontrast&hide_border=true" alt="ambaliyaDhruv" /></p> <p align="center">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ambaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="ambaliyaDhruv" />  </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ambaliyaDhruv&theme=dracula&hide_border=true)
@@ -28,6 +34,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<a href = 'https://www.linkedin.com/in/dhruv-ambaliya-179046195/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/ambaliyaDhruv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.linkedin.com/in/dhruv-ambaliya-179046195/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; 
+<a href = 'https://www.github.com/ambaliyaDhruv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp; 
+<a href = 'ambaliyadhruv@gmail.com'> <img width = '38px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a> 
   
