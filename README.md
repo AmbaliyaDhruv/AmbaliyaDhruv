@@ -28,6 +28,7 @@
 
 ## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="ambaliyaDhruv" /></p>  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ambaliyaDhruv&theme=highcontrast&hide_border=true" alt="ambaliyaDhruv" /></p> <p align="center">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ambaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="ambaliyaDhruv" />  </p>
 
+  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ambaliyaDhruv&theme=dracula&hide_border=true)
 
 
@@ -35,5 +36,5 @@
 
 <a href = 'https://www.linkedin.com/in/dhruv-ambaliya-179046195/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; 
 <a href="mailto:ambaliyadhruv@gmail.com?subject=github though"> <img width = '38px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>&nbsp; 
-<a href="https://portfolio-ambaliyadhruv.vercel.app/"> <img width = '38px' align= 'center' src="https://user-images.githubusercontent.com/96105500/159317501-cd34bf36-a370-43c3-ba92-a3d3f4cadf45.png"/></a> 
+<a href="https://portfolio-ambaliyadhruv.vercel.app/"> <img width = '38px' align= 'center' src="https://user-images.githubusercontent.com/96105500/159317501-cd34bf36-a370-43c3-ba92-a3d3f4cadf45.png"/></a><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   
