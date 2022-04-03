@@ -23,7 +23,8 @@
 <h3><i>Interested on my top projects?</i></h3>
 <p align="left">
 <a href="https://github.com/AmbaliyaDhruv/NewMarriott_Bonvoy_clone.github.io" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Marriot-Bonvoy&color=ff9b65&logo=Marriott&logoColor=FFFFFF&label=" alt="Lybrate" /></a> &nbsp;
-<a href="https://github.com/Duwesh/Purplle.com_web_clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Purplle&color=f9d3e8&logo=purplle.com&logoColor=FFFFFF&label=" alt="adidas"/></a>
+<a href="https://github.com/Duwesh/Purplle.com_web_clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Purplle&color=f9d3e8&logo=purplle&logoColor=FFFFFF&label=" alt="adidas"/></a>  &nbsp;
+ <a href="https://github.com/AmbaliyaDhruv/Pinterest-web-clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pinterest&color=ec4861&logo=pinterest&logoColor=FFFFFF&label=" alt="adidas"/></a> 
 </p>
 
 ## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="ambaliyaDhruv" /></p>  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ambaliyaDhruv&theme=highcontrast&hide_border=true" alt="ambaliyaDhruv" /></p> <p align="center">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ambaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="ambaliyaDhruv" />  </p>
