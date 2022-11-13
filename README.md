@@ -27,12 +27,10 @@
  <a href="https://github.com/AmbaliyaDhruv/Pinterest-web-clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pinterest&color=ec4861&logo=pinterest&logoColor=FFFFFF&label=" alt="adidas"/></a> 
 </p>
 
-## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmbaliyaDhruv
-&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="ambaliyaDhruv" /></p>  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jf-dhruvambaliya&theme=highcontrast&hide_border=true" alt="ambaliyaDhruv" /></p> <p align="center">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jf-dhruvambaliya&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="ambaliyaDhruv" />  </p>
+## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmbaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="AmbaliyaDhruv" /></p>  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmbaliyaDhruv&theme=highcontrast&hide_border=true" alt="AmbaliyaDhruv" /></p> <p align="center">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmbaliyaDhruv&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="AmbaliyaDhruv" />  </p>
 
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmbaliyaDhruv
-&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmbaliyaDhruv&theme=dracula&hide_border=true)
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="150px" height="70px"> </h2>
